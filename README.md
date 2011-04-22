@@ -1,8 +1,9 @@
 # pxg html boilerplate
 
-v.0.1
-
-htmlテンプレート&ガイドライン
+htmlテンプレート&ガイドライン。  
+もうチョイ突っ込んだboilerplateを目指す。  
+[[http://html5boilerplate.com/]]  
+[[http://html5boilerplate.com/mobile/]]
 
 ## デモ
 
