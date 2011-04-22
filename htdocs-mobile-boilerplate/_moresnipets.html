@@ -1,4 +1,31 @@
-﻿<!-- ホームスクリーンアイコン http://goo.gl/6nVq0 -->
+﻿<!-- ページ固有のスクリプト読み込み http://yepnopejs.com -->
+<script>
+// ページ固有のスクリプトは以下のように読む
+// Modernizr.load({
+// 	load: ['somejsfile1.js', 'somejsfile2.js', 'somejsfile3.js']
+// });
+
+// ページ固有のスクリプトは以下のように実行する
+// Modernizr.load({
+// 	test: true, complete: function(){
+// 		$(function(){
+// 			alert('wow!');
+// 		});
+// 	}
+// });
+
+// 上記2つの組み合わせ
+// Modernizr.load({
+// 	load: ['somejsfile.js', 'somejsfile.js', 'somejsfile.js'],
+// 	test: true, complete: function(){
+// 		$(function(){
+// 			alert('wow!');
+// 		});
+// 	}
+// });
+</script>
+
+<!-- ホームスクリーンアイコン http://goo.gl/6nVq0 -->
 <!-- For iPhone 4 with high-resolution Retina display: -->
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/h/apple-touch-icon.png">
 <!-- For first-generation iPad: -->
@@ -8,7 +35,7 @@
 <!-- For nokia devices: -->
 <link rel="shortcut icon" href="img/l/apple-touch-icon.png">
   
-<!-- iOS webアプリ -->
+<!-- iOS webアプリ用 -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <link rel="apple-touch-startup-image" href="img/l/splash.png">
@@ -25,4 +52,4 @@ s.parentNode.insertBefore(g,s)}(document,"script"));
 </script>
 
 <!-- Firebuglite - remove for production -->
-<!-- <script src="https://getfirebug.com/firebug-lite.js"></script> -->
+<script src="https://getfirebug.com/firebug-lite.js"></script>
