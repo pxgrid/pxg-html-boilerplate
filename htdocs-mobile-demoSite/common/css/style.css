@@ -372,7 +372,16 @@ textarea.contenteditable {-webkit-appearance: none;}
 }
 
 
-
+/**
+ * debug utils
+ */
+.debug-note{
+	background:orange;
+	color:#000;
+	font-weight:bold;
+	letter-spacing:1px;
+	padding:0 10px;
+}
 
 
 /*

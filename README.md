@@ -8,6 +8,7 @@ htmlテンプレート&ガイドライン
 
 モバイル版デモサイト (/htdocs-mobile-demoSite)  
 http://bp-mobile.pxgrid.net/  
+http://bp-mobile.pxgrid.net/_template/modules.html  
 
 デスクトップ版デモサイト (/htdocs-mobile-demoSite)  
 未  
