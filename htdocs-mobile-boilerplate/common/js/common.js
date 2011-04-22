@@ -37,6 +37,9 @@
 
 	function commonDOMContentLoaded(){
 
+		// iOS scale bug fix
+		MBP.scaleFix();
+
 		/* === write all common $(document).ready here === */
 		jQuery(function($, undefined){
 			var $b = $('body'), w = window;
