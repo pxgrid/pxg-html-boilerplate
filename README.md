@@ -2,7 +2,7 @@
 
 htmlテンプレート&ガイドライン。  
 もうチョイ突っ込んだboilerplateを目指す。  
-後よく使うライブラリ等まとめたりなど。  
+後よく使うライブラリ等まとめたりなど、実務で使うことを想定。  
 http://html5boilerplate.com/  
 http://html5boilerplate.com/mobile/  
 
