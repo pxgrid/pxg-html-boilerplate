@@ -2,8 +2,8 @@
 
 htmlテンプレート&ガイドライン。  
 もうチョイ突っ込んだboilerplateを目指す。  
-[[http://html5boilerplate.com/]]  
-[[http://html5boilerplate.com/mobile/]]
+http://html5boilerplate.com/  
+http://html5boilerplate.com/mobile/  
 
 ## デモ
 
